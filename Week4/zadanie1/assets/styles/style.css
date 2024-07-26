@@ -1,0 +1,51 @@
+h1 {
+    color:white;
+    text-align:center;
+    padding: 300px;
+    font-size: 100px;
+}
+
+
+.fon-shapka {
+    width: 1920px;
+    height: 1020px;
+    background-image:url('../images/фон\ шапки.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.meny{
+    color: white;
+    font-size: 30px;
+
+}
+
+a{
+    color: white;
+    font-size: 30px;
+}
+.fon-main{
+
+}
+
+.fon-body{
+    background-color:black;
+    background-repeat: no-repeat;
+}
+.opisanie {
+    color:white;
+    text-align:center;
+    padding: 500px;
+    font-size: 30px;   
+}
+
+h3 {
+    color:white; 
+}
+
+p {
+    color: white;
+}
+
+
